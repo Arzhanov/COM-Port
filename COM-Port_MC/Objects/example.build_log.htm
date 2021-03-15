@@ -1,0 +1,122 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.32.0.0
+Copyright (C) 2020 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Microsoft Microsoft, Microsoft, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.32.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.32.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      UL2CM3.DLL V1.163.9.0
+Dialog DLL:      TCM.DLL V1.46.0.0
+ 
+<h2>Project:</h2>
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-МК (Программа для микроконтроллера 1986ВЕ81Т)\Мелисса-МК\example.uvprojx
+Project File Date:  01/13/2021
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'Target 1'
+compiling main.c...
+compiling ADC_test.c...
+compiling PORT_config.c...
+compiling CLK_config.c...
+compiling UART_config.c...
+compiling DAC_config.c...
+compiling TIMER_config.c...
+compiling ReceiveData.c...
+compiling SendData.c...
+compiling spec.c...
+assembling startup_1986ve8t.s...
+compiling system_1986ve8t.c...
+compiling mdr32f8_adc.c...
+compiling mdr32f8_clkctrl.c...
+compiling mdr32f8_dac.c...
+compiling mdr32f8_port.c...
+compiling mdr32f8_tim.c...
+compiling mdr32f8_uart.c...
+linking...
+Program Size: Code=4816 RO-data=572 RW-data=28 ZI-data=8308  
+FromELF: creating hex file...
+".\Objects\example.axf" - 0 Error(s), 0 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.7.0.pack
+                ARM.CMSIS.5.7.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.4.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.MDR1986VE8T.0.4.1.pack
+                Keil.MDR1986VE8T.0.4.1
+                Milandr MDR1986VE8T Series Device Support, Drivers and Examples
+   * Component: Board Setup Version: 0.4
+   * Component: Startup Version: 0.4
+   * Component: ADC Version: 0.4
+   * Component: CLKCTRL Version: 0.4
+   * Component: DAC Version: 0.4
+   * Component: PORT Version: 0.4
+   * Component: TIM Version: 0.4
+   * Component: UART Version: 0.4
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\Device\MDR32F8
+  .\RTE\_Target_1
+  C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include
+  C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries
+  C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc
+  C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.4.0
+
+   * Component: Keil.EVAL-BOARD1986VE8TSupport::Board Support:Board Setup:0.4
+      Include file:  Libraries\spec.h
+      Source file:   Libraries\spec.c
+
+   * Component: Keil::Device:Startup:0.4
+      Source file:   Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\startup\arm\startup_1986ve8t.s
+      Source file:   Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\startup\arm\system_1986ve8t.c
+      Include file:  Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\startup\arm\system_1986ve8t.h
+      Include file:  Libraries\MDR32F8_StdPeriph_Driver\mdr32f8_config.h
+
+   * Component: Keil::Drivers:ADC:0.4
+      Include file:  Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_adc.h
+      Source file:   Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_adc.c
+
+   * Component: Keil::Drivers:CLKCTRL:0.4
+      Include file:  Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h
+      Source file:   Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_clkctrl.c
+
+   * Component: Keil::Drivers:DAC:0.4
+      Include file:  Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_dac.h
+      Source file:   Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_dac.c
+
+   * Component: Keil::Drivers:PORT:0.4
+      Include file:  Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_port.h
+      Source file:   Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_port.c
+
+   * Component: Keil::Drivers:TIM:0.4
+      Include file:  Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_tim.h
+      Source file:   Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_tim.c
+
+   * Component: Keil::Drivers:UART:0.4
+      Include file:  Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_uart.h
+      Source file:   Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_uart.c
+Build Time Elapsed:  00:00:05
+</pre>
+</body>
+</html>

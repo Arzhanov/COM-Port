@@ -1,0 +1,23 @@
+--cpu=Cortex-M4 --fpu=SoftVFP
+".\objects\main.o"
+".\objects\adc_test.o"
+".\objects\port_config.o"
+".\objects\clk_config.o"
+".\objects\uart_config.o"
+".\objects\dac_config.o"
+".\objects\timer_config.o"
+".\objects\receivedata.o"
+".\objects\senddata.o"
+".\objects\spec.o"
+".\objects\startup_1986ve8t.o"
+".\objects\system_1986ve8t.o"
+".\objects\mdr32f8_adc.o"
+".\objects\mdr32f8_clkctrl.o"
+".\objects\mdr32f8_dac.o"
+".\objects\mdr32f8_port.o"
+".\objects\mdr32f8_tim.o"
+".\objects\mdr32f8_uart.o"
+--strict --scatter ".\Objects\example.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\example.map" -o .\Objects\example.axf

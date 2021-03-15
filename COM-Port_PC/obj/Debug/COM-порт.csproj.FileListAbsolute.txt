@@ -1,0 +1,21 @@
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\bin\Debug\COM-порт.exe.config
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\bin\Debug\COM-порт.exe
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\bin\Debug\COM-порт.pdb
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\obj\Debug\COM-порт.csprojAssemblyReference.cache
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\obj\Debug\COM_порт.Properties.Resources.resources
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\obj\Debug\COM-порт.csproj.GenerateResource.cache
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\obj\Debug\COM-порт.exe
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\obj\Debug\COM-порт.pdb
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\obj\Debug\COM_порт.FormPowerControl.resources
+C:\Users\Arzha\Desktop\STM32 (ЦАП)_ТУМ\COM-порт\COM-порт\obj\Debug\COM_порт.FormPortSetting.resources
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\bin\Debug\COM-порт.exe.config
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\bin\Debug\COM-порт.exe
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\bin\Debug\COM-порт.pdb
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\obj\Debug\COM_порт.FormPortSetting.resources
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\obj\Debug\COM_порт.Properties.Resources.resources
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\obj\Debug\COM-порт.csproj.GenerateResource.cache
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\obj\Debug\COM-порт.csproj.CoreCompileInputs.cache
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\obj\Debug\COM-порт.exe
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\obj\Debug\COM-порт.pdb
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\obj\Debug\COM-порт.csprojAssemblyReference.cache
+C:\Users\Arzhanov_MI\Desktop\Сетевая папка\Мелисса-ПК (Программа для ПК)\COM-порт\obj\Debug\COM_порт.FormControl.resources

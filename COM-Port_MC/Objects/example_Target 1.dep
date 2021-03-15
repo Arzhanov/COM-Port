@@ -1,0 +1,249 @@
+Dependencies for Project 'example', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\User\main.c)(0x5FFEC75C)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (User\UART_config.h)(0x5FFD883D)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_port.h)(0x5F325430)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_uart.h)(0x5F325430)
+I (User\PORT_config.h)(0x5F9FE992)
+I (User\CLK_config.h)(0x5F9FE992)
+I (User\ADC_test.h)(0x5FFD7D3D)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_adc.h)(0x5F450B5A)
+I (User\DAC_config.h)(0x5FE34EC1)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_dac.h)(0x5F325430)
+I (User\TIMER_config.h)(0x5FEC6360)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_tim.h)(0x5F44CF34)
+I (User\ReceiveData.h)(0x5FFEC089)
+I (User\SendData.h)(0x5FFEEB9A)
+F (.\User\ADC_test.c)(0x5FFD8965)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\adc_test.o --omf_browse .\objects\adc_test.crf --depend .\objects\adc_test.d)
+I (User\ADC_test.h)(0x5FFD7D3D)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_port.h)(0x5F325430)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_adc.h)(0x5F450B5A)
+F (.\User\ADC_test.h)(0x5FFD7D3D)()
+F (.\User\PORT_config.c)(0x5F9FE676)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\port_config.o --omf_browse .\objects\port_config.crf --depend .\objects\port_config.d)
+I (User\PORT_config.h)(0x5F9FE992)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_port.h)(0x5F325430)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
+F (.\User\PORT_config.h)(0x5F9FE992)()
+F (.\User\CLK_config.c)(0x5FEAEEE9)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\clk_config.o --omf_browse .\objects\clk_config.crf --depend .\objects\clk_config.d)
+I (User\CLK_config.h)(0x5F9FE992)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+F (.\User\CLK_config.h)(0x5F9FE992)()
+F (.\User\UART_config.c)(0x5FFD8CDF)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\uart_config.o --omf_browse .\objects\uart_config.crf --depend .\objects\uart_config.d)
+I (User\UART_config.h)(0x5FFD883D)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_port.h)(0x5F325430)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_uart.h)(0x5F325430)
+F (.\User\UART_config.h)(0x5FFD883D)()
+F (.\User\DAC_config.c)(0x5FEC3CFE)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\dac_config.o --omf_browse .\objects\dac_config.crf --depend .\objects\dac_config.d)
+I (User\DAC_config.h)(0x5FE34EC1)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_port.h)(0x5F325430)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_dac.h)(0x5F325430)
+F (.\User\DAC_config.h)(0x5FE34EC1)()
+F (.\User\TIMER_config.c)(0x5FFEB211)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\timer_config.o --omf_browse .\objects\timer_config.crf --depend .\objects\timer_config.d)
+I (User\TIMER_config.h)(0x5FEC6360)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_tim.h)(0x5F44CF34)
+F (.\User\TIMER_config.h)(0x5FEC6360)()
+F (.\User\ReceiveData.c)(0x5FFEC089)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\receivedata.o --omf_browse .\objects\receivedata.crf --depend .\objects\receivedata.d)
+I (User\ReceiveData.h)(0x5FFEC089)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_port.h)(0x5F325430)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_uart.h)(0x5F325430)
+F (.\User\ReceiveData.h)(0x5FFEC089)()
+F (.\User\SendData.c)(0x5FFEF281)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\senddata.o --omf_browse .\objects\senddata.crf --depend .\objects\senddata.d)
+I (User\SendData.h)(0x5FFEEB9A)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_port.h)(0x5F325430)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_uart.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_tim.h)(0x5F44CF34)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_dac.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_adc.h)(0x5F450B5A)
+F (.\User\SendData.h)(0x5FFEEB9A)()
+F (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\spec.c)(0x5F325430)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\spec.o --omf_browse .\objects\spec.crf --depend .\objects\spec.d)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\spec.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+F (RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)()
+F (RTE\Device\MDR32F8\startup_1986ve8t.s)(0x5F325430)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc--pd "__UVISION_VERSION SETA 532" --pd "_RTE_ SETA 1" --pd "USE_MDR32F8 SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_1986ve8t.lst --xref -o .\objects\startup_1986ve8t.o --depend .\objects\startup_1986ve8t.d)
+F (RTE\Device\MDR32F8\system_1986ve8t.c)(0x5F325430)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\system_1986ve8t.o --omf_browse .\objects\system_1986ve8t.crf --depend .\objects\system_1986ve8t.d)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+F (RTE\Device\MDR32F8\system_1986ve8t.h)(0x5F325430)()
+F (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_adc.c)(0x5F450280)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\mdr32f8_adc.o --omf_browse .\objects\mdr32f8_adc.crf --depend .\objects\mdr32f8_adc.d)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_adc.h)(0x5F450B5A)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+F (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_clkctrl.c)(0x5F325430)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\mdr32f8_clkctrl.o --omf_browse .\objects\mdr32f8_clkctrl.crf --depend .\objects\mdr32f8_clkctrl.d)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+F (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_dac.c)(0x5F325430)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\mdr32f8_dac.o --omf_browse .\objects\mdr32f8_dac.crf --depend .\objects\mdr32f8_dac.d)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_dac.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+F (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_port.c)(0x5F325430)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\mdr32f8_port.o --omf_browse .\objects\mdr32f8_port.crf --depend .\objects\mdr32f8_port.d)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_port.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+F (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_tim.c)(0x5F4609D4)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\mdr32f8_tim.o --omf_browse .\objects\mdr32f8_tim.crf --depend .\objects\mdr32f8_tim.d)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_tim.h)(0x5F44CF34)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
+F (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\src\mdr32f8_uart.c)(0x5F325430)(--c99 --gnu -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections -I .\User -I .\MDR1986BE4_StdPeriph_Driver -I .\MDR1986BE4_StdPeriph_Driver\inc -I .\MDR1986BE4_StdPeriph_Driver\src -I ..\Мелисса-МК-I.\RTE\Device\MDR32F8-I.\RTE\_Target_1-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc-IC:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc-D__UVISION_VERSION="532" -D_RTE_ -DUSE_MDR32F8 -D_RTE_-o .\objects\mdr32f8_uart.o --omf_browse .\objects\mdr32f8_uart.crf --depend .\objects\mdr32f8_uart.d)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_uart.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (.\RTE\Device\MDR32F8\mdr32f8_config.h)(0x5F325430)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_lib.h)(0x5F325430)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5F63CDCC)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\CMSIS\CM4\DeviceSupport\MDR32F8\inc\MDR1986VE8T.h)(0x5F450B70)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\Arzhanov_MI\AppData\Local\Arm\Packs\Keil\MDR1986VE8T\0.4.1\Libraries\MDR32F8_StdPeriph_Driver\inc\mdr32f8_clkctrl.h)(0x5F325430)
